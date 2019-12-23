@@ -1,0 +1,3 @@
+# smoke test
+Test-Command: /usr/sbin/dmidecode -V
+Depends: dmidecode
